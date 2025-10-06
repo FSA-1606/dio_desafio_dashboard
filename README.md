@@ -69,7 +69,7 @@ Como Executar
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/xbox-dashboard.git
+    git remote add origin https://github.com/FSA-1606/dio_desafio_dashboard.git
 
 
 
